@@ -1,0 +1,28 @@
+*
+{
+    margin: 10px;
+}
+body
+{
+    background-color: blue;
+}
+h1
+{
+    color:turquoise;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2
+{
+    color: red;
+
+}
+img
+{
+    width: 250px;
+    height: 180px;
+}
+p
+{
+    color:blueviolet;
+    background-color: azure;
+}
